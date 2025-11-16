@@ -1,0 +1,7 @@
+pkg up -y
+pkg install git -y 
+pkg install curl -y
+pkg isntall openssl-tool
+git clone https://github.com/mohdhussain56565-ops/Mohammad-Hussain-.git
+ls
+cd 
